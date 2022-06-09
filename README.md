@@ -12,4 +12,4 @@ We used different measures including measures of central tendency (mean, median 
 
 ## Visualization
 
-
+![Distributions with Box Plot.png](kickstarter-analysis/image/Distributions with Box Plot.png)
