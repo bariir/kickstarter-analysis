@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to help Louise uncover most successful m
 ## Data Preparation
 We have sorted, filtered and added conditional formatting to help Louise target specific country, and specific category and subcategory of interest. 
 
-## Averages, Account and Sums
+## Averages, Count and Sum
 We have calculated Averages donations, percentage funded. We calculated number successful, failed, canceled Category and Subcategory outcomes. 
 
 ## Measures:
