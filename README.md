@@ -12,4 +12,4 @@ We used different measures including measures of central tendency (mean, median 
 
 ## Visualization
 
-![alt text](https://github.com/bariir/kickstarter-analysis/blob/main/Distributions with Box Plot.png?raw=true)
+![alt text](https://github.com/bariir/kickstarter-analysis/tree/main/image/Distributions with Box Plot.png?raw=true)
