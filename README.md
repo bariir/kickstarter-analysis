@@ -12,4 +12,10 @@ We used different measures including measures of central tendency (mean, median 
 
 ## Visualization
 
-![distributions-with-boxplot](https://github.com/bariir/kickstarter-analysis/tree/main/image/distributions-with-boxplot.png?raw=true)
+![Outcomes based on launch date](https://github.com/bariir/kickstarter-analysis/tree/main/image/outcomes-based-on-launch-date.png?raw=true)
+
+![Parent category outcomes](https://github.com/bariir/kickstarter-analysis/tree/main/image/parent-category-outcomes.png?raw=true)
+
+![Subcategory statistics](https://github.com/bariir/kickstarter-analysis/tree/main/image/subcategory-statistics.png?raw=true)
+
+![distributions with boxplot](https://github.com/bariir/kickstarter-analysis/tree/main/image/distributions-with-boxplot.png?raw=true)
