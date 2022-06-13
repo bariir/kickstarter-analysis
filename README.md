@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstart Analysis
 
 ## Overview of Project
 In this Kickstarter analysis, I have provided two deliverables including Theater Outcomes by Launch Date and Outcomes based on goals. The analysis includes visualization metrics that will enables Louise to get deeper understanding of outcomes based on launch date and outcomes based on goal. 
