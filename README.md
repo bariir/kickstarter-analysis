@@ -4,7 +4,7 @@
 In this Kickstarter analysis, I have provided two deliverables including Theater Outcomes by Launch Date and Outcomes based on goals. The analysis includes visualization metrics that will enables Louise to get deeper understanding of outcomes based on launch date and outcomes based on goal. 
 
 ### Purpose
-The goal of this project is to provide Louise an analysis of her play Fever which fall short of her expected campaign goal amount. Also, Louise would like to compare different campaigns in relation to their launch dates and their funding goals so that she can adjust her launch dates and funding goals to get better outcome. 
+The goal of this project is to provide Louise an analysis of her play Fever which falls short of her expected campaign goal amount. Also, Louise would like to compare different campaigns in relation to their launch dates and their funding goals so that she can adjust her launch dates and funding goals to get better outcome. 
 
 ## Analysis and Challenges
 
